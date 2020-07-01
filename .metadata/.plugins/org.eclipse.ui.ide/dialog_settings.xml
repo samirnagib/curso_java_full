@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="657"/>
+		<item key="DIALOG_Y_ORIGIN" value="346"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda6-java"/>
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda1-java"/>
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda2-java"/>
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda3-java"/>
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda4-java"/>
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda5-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\generics2-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\generics1-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\interfaces3-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\interfaces2-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\interfaces4-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\interfaces1-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\files1-java"/>
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\chess-system-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\exceptions1-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance8-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance7-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance6-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance5-java"/>
+			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance4-java"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda5-java"/>
+		</list>
+	</section>
+</section>
