@@ -10,13 +10,15 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Queen"/>
+		<item key="selection" value="Seller"/>
 		<list key="findhistory">
+			<item value="Department "/>
 			<item value="Rook"/>
 			<item value="King"/>
 			<item value="Root"/>
 		</list>
 		<list key="replacehistory">
+			<item value="Seller"/>
 			<item value="Queen"/>
 			<item value="Knight"/>
 			<item value="Bishop"/>

@@ -17,6 +17,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda7-java"/>
 			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda6-java"/>
 			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda1-java"/>
 			<item value="D:\Nuvem\OneDrive\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\lambda2-java"/>
@@ -36,7 +37,6 @@
 			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance7-java"/>
 			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance6-java"/>
 			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance5-java"/>
-			<item value="D:\Usuarios\samir\OneDrive\Udemy\Java_Curso_COmpleto\Workspace\inheritance4-java"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
